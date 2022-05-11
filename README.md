@@ -4,7 +4,9 @@ Plugin for connecting [MetaEditor](http://metaeditor.io/) with Pixel Streaming (
 
 
 
-## Downloads:
+## Links:
+
+* [Documentation](https://metaeditor.io/docs/metaplugin/description)
 
 * [Download (ZIP)](https://github.com/markolofsen/metaplugin-pixel-streaming/archive/refs/heads/main.zip)
 
@@ -16,12 +18,14 @@ Plugin for connecting [MetaEditor](http://metaeditor.io/) with Pixel Streaming (
 
 * **Audi configurator**
   
-  * [Description](https://bitbucket.org/everymark/audi-unreal-engine/src/master/)
+  * [Real-time demonstration](https://ps.metaeditor.io/player/lumen?view=1)
   
-  * [Download](https://bitbucket.org/everymark/audi-unreal-engine/downloads/)
+  * [Download a ready-made project for Unreal Engine](https://metapublic.s3.amazonaws.com/CarConfigurator.zip)
 
 
 
-## Documentation
+---
 
-> In progress...
+**Made by [UnrealOS Team](https://unrealos.com/)**
+
+Development of metaverses for business.
