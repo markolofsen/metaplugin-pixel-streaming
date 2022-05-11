@@ -4,13 +4,11 @@ Plugin for connecting [MetaEditor](http://metaeditor.io/) with Pixel Streaming (
 
 
 
-#### [Download plugin for Unreal Engine](https://github.com/markolofsen/metaplugin-pixel-streaming/archive/refs/heads/main.zip)
+## Downloads:
 
-**... or clone with git**
+* [Download (ZIP)](https://github.com/markolofsen/metaplugin-pixel-streaming/archive/refs/heads/main.zip)
 
-```bash
-git clone https://github.com/markolofsen/metaplugin-pixel-streaming.git
-```
+* [Make a fork in GitHub](https://github.com/markolofsen/metaplugin-pixel-streaming/fork)
 
 
 
