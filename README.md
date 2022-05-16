@@ -8,7 +8,7 @@ Plugin for connecting [MetaEditor](http://metaeditor.io/) with Pixel Streaming (
 
 * [Documentation](https://metaeditor.io/docs/metaplugin/description)
 
-* [Compiled version (Win64)](releases/tag/Win64)
+* [Compiled version (Win64)](https://github.com/markolofsen/metaplugin-pixel-streaming/releases/download/Win64/MetaEditor_v1_0.zip)
 
 * [Source code (ZIP)](https://github.com/markolofsen/metaplugin-pixel-streaming/archive/refs/heads/main.zip)
 
